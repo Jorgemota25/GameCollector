@@ -63,8 +63,8 @@
 				CC2CE1251EC10A60007A964F /* Game.jpg */,
 				CC2CE1101EC10755007A964F /* AppDelegate.swift */,
 				CC2CE1121EC10755007A964F /* ViewController.swift */,
-				CC2CE1141EC10755007A964F /* Main.storyboard */,
 				CC2CE1271EC10B0A007A964F /* GameViewController.swift */,
+				CC2CE1141EC10755007A964F /* Main.storyboard */,
 				CC2CE11A1EC10755007A964F /* Assets.xcassets */,
 				CC2CE11C1EC10755007A964F /* LaunchScreen.storyboard */,
 				CC2CE11F1EC10755007A964F /* Info.plist */,
@@ -313,6 +313,7 @@
 				CC2CE1241EC10755007A964F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
